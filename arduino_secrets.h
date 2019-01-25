@@ -1,0 +1,2 @@
+#define SECRET_SSID "CenturyLink0502"
+#define SECRET_PASS "121212121224G"
